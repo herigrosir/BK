@@ -1,5 +1,5 @@
-﻿//========================================================================
-// Bokep
+//========================================================================
+// BK
 //========================================================================
 
 //========================================================================
@@ -6939,152 +6939,152 @@ https://ezycdn.com/playlist-h03mv30-FHD.m3u8
 https://ezycdn.com/playlist-ic5j03j-SD.m3u8
 #EXTINF:-1 group-title="Campur" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00797/1stars00797pl.jpg",STARS-797 เน€เธเธฅเธฅเนเธเธฒเธขเธ•เธฃเธเน€เธฃเธทเนเธญเธเน€เธเนเธเธชเนเธเธฑเธ”
 https://cdn.cdndlap.com/backup/src/hls/STARS-797_156764_11-24-11am_2024-04-06_hls.m3u8/hls_main.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/start-503/cover-n.jpg",start-503
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/start-503/cover-n.jpg",start-503
 https://surrit.com/5d2333ea-5690-400f-a5a9-9fc48ca65b0c/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/start-481/cover-n.jpg",start-481
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/start-481/cover-n.jpg",start-481
 https://surrit.com/76735bea-45fc-4a6a-b863-b9708420ac62/360p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/start-467/cover-n.jpg",start-467
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/start-467/cover-n.jpg",start-467
 https://surrit.com/ec56a0e5-faaa-48a2-a247-59a8803d5810/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/start-425/cover-n.jpg",start-425
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/start-425/cover-n.jpg",start-425
 https://surrit.com/7c884dbf-5c4b-4f67-bce3-d7c3760486e4/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00406/1start00406pl.jpg",start-406
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00406/1start00406pl.jpg",start-406
 https://surrit.com/a72a1569-612a-461d-b038-2449e3b97955/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00383/1start00383pl.jpg",start-383
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00383/1start00383pl.jpg",start-383
 https://surrit.com/59a9f35e-4492-4bb5-bb28-321fb5c4a9fe/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00361/1start00361pl.jpg",start-361
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00361/1start00361pl.jpg",start-361
 https://surrit.com/af369f7b-6180-4e0e-8cb3-a5345eb3acc7/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00346/1start00346pl.jpg",start-346
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00346/1start00346pl.jpg",start-346
 https://surrit.com/93eb553b-e7a5-44a2-b61d-e34553dec422/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00320/1start00320pl.jpg",start-320
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00320/1start00320pl.jpg",start-320
 https://surrit.com/df98c3aa-7a17-450f-b91a-8bbf994bb7e1/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00302v/1start00302vpl.jpg",start-302
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00302v/1start00302vpl.jpg",start-302
 https://surrit.com/d2c4b17d-f62b-4528-bc1f-3a9dd9ca4196/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00265/1start00265pl.jpg",start-265
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00265/1start00265pl.jpg",start-265
 https://surrit.com/62ef2b2f-00e6-49c5-a968-3bf33419981f/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00284/1start00284pl.jpg",start-284
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00284/1start00284pl.jpg",start-284
 https://surrit.com/6c14d679-e3fb-44e6-9ce1-3eae75baba62/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00245/1start00245pl.jpg",start-245
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00245/1start00245pl.jpg",start-245
 https://surrit.com/934a2892-0496-4ed8-bd96-7afc78b060ce/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00224/1start00224pl.jpg",start-224
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00224/1start00224pl.jpg",start-224
 https://surrit.com/421e072f-a8cc-436b-8a99-f00c82bf511d/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00208/1start00208pl.jpg",start-208
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00208/1start00208pl.jpg",start-208
 https://surrit.com/91ca25a3-01de-4896-b54e-b442de5bdf45/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00208/1start00208pl.jpg",start-208
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00208/1start00208pl.jpg",start-208
 https://surrit.com/3a327f78-9451-475c-9318-c5d73a22ea79/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start189/1start189pl.jpg",start-189
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start189/1start189pl.jpg",start-189
 https://surrit.com/2cd46a95-b161-4feb-ba9f-282730d810e3/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start158/1start158pl.jpg",start-158
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start158/1start158pl.jpg",start-158
 https://surrit.com/28de83aa-e40d-4597-a4a2-70068f1e214d/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start158/1start158pl.jpg",start-158-english-subtitle
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start158/1start158pl.jpg",start-158-english-subtitle
 https://surrit.com/b61f8635-628b-420e-84b6-207a6bbddd78/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start148/1start148pl.jpg",start-148
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start148/1start148pl.jpg",start-148
 https://surrit.com/6694b1de-9f39-4209-bd70-683d5e19899f/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start120/1start120pl.jpg",start-120
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start120/1start120pl.jpg",start-120
 https://surrit.com/99ee004d-2304-4758-ae06-d4911a6302e0/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start088/1start088pl.jpg",start-088
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start088/1start088pl.jpg",start-088
 https://surrit.com/0ffdbb70-9d81-41a1-8b5d-9ce701f91225/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start088/1start088pl.jpg",start-088-english-subtitle
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start088/1start088pl.jpg",start-088-english-subtitle
 https://surrit.com/379edd6c-725f-4858-b71b-0f1afb7f940d/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start107/1start107pl.jpg",start-107
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start107/1start107pl.jpg",start-107
 https://surrit.com/8c09fbc3-8ab9-4b35-97df-4fcb51870084/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start073/1start073pl.jpg",start-073
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start073/1start073pl.jpg",start-073
 https://surrit.com/2c50da74-b7f2-4ddf-b471-9bcb544538de/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start035/1start035pl.jpg",start-035
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start035/1start035pl.jpg",start-035
 https://surrit.com/fffb45bc-9e6f-4769-807e-09116b1ce4ec/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start035/1start035pl.jpg",start-035-english-subtitle
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start035/1start035pl.jpg",start-035-english-subtitle
 https://surrit.com/df1d8a14-a574-44ee-9bf7-51e0b18d8c2a/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00022/1start00022pl.jpg",start-022
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00022/1start00022pl.jpg",start-022
 https://surrit.com/dea74835-c7f1-4454-a2a7-745226a5e910/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00980/1stars00980pl.jpg",stars-980
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00980/1stars00980pl.jpg",stars-980
 https://surrit.com/c01963a1-13e9-431a-81aa-a757ed0e89a8/1920x1080/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars969/1stars969pl.jpg",stars-969
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars969/1stars969pl.jpg",stars-969
 https://surrit.com/6b94e145-e3eb-49b9-8d00-3e29f2586848/1920x1080/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars955/1stars955pl.jpg",stars-955
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars955/1stars955pl.jpg",stars-955
 https://surrit.com/c714aa4f-9ca7-4faf-b7cd-d8b79d6e059d/1920x1080/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars935/1stars935pl.jpg",stars-935
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars935/1stars935pl.jpg",stars-935-english
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars935/1stars935pl.jpg",stars-935
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars935/1stars935pl.jpg",stars-935-english
 https://surrit.com/57920645-4fb4-468c-85dd-33f0dc363e2f/1080p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars895/1stars895pl.jpg",stars-895
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars895/1stars895pl.jpg",stars-895
 https://surrit.com/f6dc8699-0885-4c31-bf28-e1e312d52ed5/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars893/1stars893pl.jpg",stars-893
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars893/1stars893pl.jpg",stars-893
 https://surrit.com/28b94fff-d437-43bb-bbc3-ce682053ce9b/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars867/1stars867pl.jpg",stars-867
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars867/1stars867pl.jpg",stars-867
 https://surrit.com/e50d19a9-0166-4bdd-90f4-75bd6d4723ff/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars867/1stars867pl.jpg",stars-867-english
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars867/1stars867pl.jpg",stars-867-english
 https://surrit.com/a89ddc2d-25cc-40f3-9f9d-952307cbf684/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars883/1stars883pl.jpg",stars-883
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars883/1stars883pl.jpg",stars-883
 https://surrit.com/09dac1d4-49c6-42ea-b19e-7141d1e0a8d3/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars824/1stars824pl.jpg",stars-824
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars824/1stars824pl.jpg",stars-824
 https://surrit.com/e12a186f-f2e3-467b-8bc2-dca208bf0212/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars844/1stars844pl.jpg",stars-844
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars844/1stars844pl.jpg",stars-844
 https://surrit.com/b0cad8f0-8d47-4b98-9658-ce62a6554a81/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00797/1stars00797pl.jpg",stars-797
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00797/1stars00797pl.jpg",stars-797
 https://surrit.com/5d66c34a-e8c3-4443-959a-8340c2e803c1/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars782/1stars782pl.jpg",stars-782
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars782/1stars782pl.jpg",stars-782
 https://surrit.com/5ed65b72-c271-476b-a2ac-b268a1920ba0/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars751/1stars751pl.jpg",stars-751
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars751/1stars751pl.jpg",stars-751
 https://surrit.com/2c4fb289-0168-4595-aa95-0dff2307fbc3/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars745/1stars745pl.jpg",stars-745
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars745/1stars745pl.jpg",stars-745
 https://surrit.com/43f7cac4-26b7-40a8-91bb-1f9a693df95b/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00713/1stars00713pl.jpg",stars-713
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00713/1stars00713pl.jpg",stars-713
 https://surrit.com/6089b721-c3cf-47de-8496-0d5755c995c9/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00691/1stars00691pl.jpg",stars-691
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00691/1stars00691pl.jpg",stars-691
 https://surrit.com/630aa2db-f5f5-44ab-abb9-6f1d408ef082/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars670/1stars670pl.jpg",stars-670
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars670/1stars670pl.jpg",stars-670
 https://surrit.com/2becd31e-c431-448c-b725-cb0f556ffc71/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars637/1stars637pl.jpg",stars-637
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars637/1stars637pl.jpg",stars-637
 https://surrit.com/c4e53349-ffb2-4495-b224-98553b92379f/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars617/1stars617pl.jpg",stars-617
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars617/1stars617pl.jpg",stars-617
 https://surrit.com/cbccfc07-f776-4669-ab75-3d4d3f2e0acb/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars601/1stars601pl.jpg",stars-601
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars601/1stars601pl.jpg",stars-601
 https://surrit.com/7319f9a3-cdcd-49b8-af6a-9a00f72a6bcf/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars579/1stars579pl.jpg",stars-579
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars579/1stars579pl.jpg",stars-579
 https://surrit.com/137d6726-b674-4eaf-88c5-7b1b4867a505/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2022/04/1stars542pl-550x374.jpg",stars-542
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://cdn.javsts.com/wp-content/uploads/2022/04/1stars542pl-550x374.jpg",stars-542
 https://surrit.com/551562e6-08d6-463f-b298-7f4c9af45638/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2022/05/1stars552pl-550x374.jpg",stars-552
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://cdn.javsts.com/wp-content/uploads/2022/05/1stars552pl-550x374.jpg",stars-552
 https://surrit.com/c7cf67d9-7e4d-4130-83d7-bac6bf9f3d2b/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00526/1stars00526pl.jpg",stars-526
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00526/1stars00526pl.jpg",stars-526
 https://surrit.com/89aa71d2-c4f3-4e37-aa55-10a6b5feb49c/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00525/1stars00525pl.jpg",stars-525
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00525/1stars00525pl.jpg",stars-525
 https://surrit.com/143527f0-de5a-4669-ad8f-fddab24fb141/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00528/1stars00528pl.jpg",stars-528
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00528/1stars00528pl.jpg",stars-528
 https://surrit.com/7736d74c-bf79-4ddc-956f-6d2d5fb0ecb3/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00486/1stars00486pl.jpg",stars-486-english-sub
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00486/1stars00486pl.jpg",stars-486-english-sub
 https://surrit.com/32902c10-031e-40f2-99b1-004988b5e733/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1sdmm00102/1sdmm00102pl.jpg",sdmm-102
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1sdmm00102/1sdmm00102pl.jpg",sdmm-102
 https://surrit.com/817a34c2-a7e0-48fd-8c0d-2267eb943001/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00460/1stars00460pl.jpg",stars-460-english-sub
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00460/1stars00460pl.jpg",stars-460-english-sub
 https://surrit.com/9005fe5a-4ecb-4b03-bded-28b1e10a5bf9/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00428/1stars00428pl.jpg",stars-428
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00428/1stars00428pl.jpg",stars-428
 https://surrit.com/a0939db4-a413-4317-8f52-2adfad596128/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2021/11/245130262_1648135l-550x374.jpg",stars-440
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://cdn.javsts.com/wp-content/uploads/2021/11/245130262_1648135l-550x374.jpg",stars-440
 https://surrit.com/8782e712-74ac-4f4a-a95d-c22efffd8658/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00412/1stars00412pl.jpg",stars-412
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00412/1stars00412pl.jpg",stars-412
 https://surrit.com/13487aec-e6c0-4e00-81b7-94ec24d13c06/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00398/1stars00398pl.jpg",stars-398
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00398/1stars00398pl.jpg",stars-398
 https://surrit.com/04078348-a955-42b8-9ad7-854bd4e07852/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00386/1stars00386pl.jpg",stars-386
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00386/1stars00386pl.jpg",stars-386
 https://surrit.com/24bf8f8f-003f-4288-9a62-d3ffbf2f858b/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00371/1stars00371pl.jpg",stars-371
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00371/1stars00371pl.jpg",stars-371
 https://surrit.com/e14e448b-c906-42fa-ac8b-02e44607cf0b/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/mbrbn-049/cover-n.jpg",mbrbn-049
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/mbrbn-049/cover-n.jpg",mbrbn-049
 https://surrit.com/64e35405-1a95-4c2d-b8df-f1eabcc50482/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebd-925/cover-n.jpg",rebd-925
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebd-925/cover-n.jpg",rebd-925
 https://surrit.com/5631ab45-d6dd-4741-b6ad-fd21e8e471e8/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebd-807/cover-n.jpg",rebd-807
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebd-807/cover-n.jpg",rebd-807
 https://surrit.com/0d1ec15a-b105-4082-8cfa-514a0fb0277d/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebd-741/cover-n.jpg",rebd-741
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebd-741/cover-n.jpg",rebd-741
 https://surrit.com/b3ea9347-8c4c-4728-b5f2-e08ade120099/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebd-707/cover-n.jpg",rebd-707
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebd-707/cover-n.jpg",rebd-707
 https://surrit.com/6fada18e-2fd5-4c55-afa8-112ed9915806/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebd-601/cover-n.jpg",rebd-601
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebd-601/cover-n.jpg",rebd-601
 https://surrit.com/2fcd4e85-41f9-480b-93ed-e399efed038a/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebdb-910/cover-n.jpg",rebdb-910
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebdb-910/cover-n.jpg",rebdb-910
 https://surrit.com/a88589ed-0dc4-4f84-86b6-bd7cb313f3ff/720p/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebdb-727/cover-n.jpg",rebdb-727
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebdb-727/cover-n.jpg",rebdb-727
 https://surrit.com/82a8b9cc-a7a4-4efe-bb5a-a5de0748cbe4/1280x720/video.m3u8
-#EXTINF:-1 group-title="Minamo คนโปรด😍" tvg-logo="https://fourhoi.com/rebdb-693/cover-n.jpg",rebdb-693
+#EXTINF:-1 group-title="Minamo " tvg-logo="https://fourhoi.com/rebdb-693/cover-n.jpg",rebdb-693
 https://surrit.com/3f148216-24ae-44d6-bfb0-5a9b6cb1544d/1280x720/video.m3u8
 
 #EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00113/sone00113pl.jpg",SONE-113 เน€เธกเธฒเนเธฅเนเธงเธฅเธทเธกเธชเธดเนเธ เนเธญเธเธเธดเธเธเธฑเธเธฃเธธเนเธเธเธตเน
@@ -9067,586 +9067,587 @@ https://surrit.com/11ed1238-174f-42ba-bec7-189f8d7db6cb/1280x720/video.m3u8
 
 #EXTINF:-1 group-title="Yua Mikami" tvg-logo="https://fourhoi.com/tek-097/cover-n.jpg",tek-097
 https://surrit.com/16c398cc-35c3-480f-b4a8-079e1dd91ab4/1280x720/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/255/pb_e_abf-255.jpg",ABF-255 เน€เธชเธเนเธซเนเธชเธฒเธงเธญเธญเธเธเธดเธจ เธเธดเธจเธงเธฒเธชเธเธฑเธงเธเธฒเธงเธเนเธฒเธ
+
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/255/pb_e_abf-255.jpg",ABF-255 
 https://ezycdn.com/playlist-9nunhc0-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/159/pb_e_abf-159.jpg",ABF-159 เนเธญเธ•เธฒเธเธธเธเธตเนเธญเธฒเธข เธ–เธงเธฒเธขเธ—เธฑเนเธเธเธฒเธขเนเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/159/pb_e_abf-159.jpg",ABF-159 
 https://ezycdn.com/playlist-rb9gqo0-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/246/pb_e_abf-246.jpg",ABF-246 เธเธฒเธเธเนเธฒเธชเธญเธเธซเธเนเธฒ เธเธนเนเธซเธดเธงเธเธฃเธฐเธซเธฒเธขเน€เธเนเธเธชเน
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/246/pb_e_abf-246.jpg",ABF-246 
 https://ezycdn.com/playlist-4n8lnlo-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/217/pb_e_abf-217.jpg",ABF-217 เธชเธญเธเธ”เธตเนเธกเนเธญเธงเธข เธเธงเธ”เธเธฃเธฐเธเธงเธขเธเธตเธเนเธ—เธฃเธเน€เธเธญเธฃเน
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/217/pb_e_abf-217.jpg",ABF-217 
 https://ezycdn.com/playlist-368pelg-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",ABF-149 เน€เธเธฅเธงเนเธเธเธดเธจเธงเธฒเธชเธเธฑเธเธเธตเธฌเธฒ 3 เธเธ—เธฃเธฑเธเน€เธฃเนเธฒเธฃเนเธญเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",ABF-149
 https://ezycdn.com/playlist-glq7jco-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",ABW-276 เธเธฑเธเธจเธถเธเธฉเธฒเธเธฅเธฑเนเธเน€เธเนเธเธชเน เนเธ•เธเนเธเนเธกเนเธขเธฑเนเธ 4 เธเธฃเธฑเนเธเธ•เธดเธ”
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",ABW-276 
 https://ezycdn.com/playlist-ucou8a0-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",ABW-015 เธเธดเธจเธงเธฒเธชเธเนเธญเธเน€เธฃเนเธ เธเธฃเธฐเธ•เธธเนเธเน€เธญเนเธเธฅเธธเธเธเธนเธเธฑเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",ABW-015
 https://ezycdn.com/playlist-ue7egao-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",ABW-179 เธฃเธฑเธเนเธ”เนเธ—เธธเธเธเธเธฒเธ” เธชเธงเธขเธชเธฐเธญเธฒเธ”เธเนเธญเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",ABW-179 
 https://ezycdn.com/playlist-6fttabo-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",ABW-366 เธซเธเนเธฒเนเธเธเธเธดเธเธซเธต เธเธขเธตเนเธ—เธธเธเธญเธฒเธฃเธกเธ“เน
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",ABW-366 
 https://ezycdn.com/playlist-lpmr1ik0-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",ABF-007 เธเธฑเนเธเธ—เนเธฒเธขเน€เธเธฒเธเธฒเธก เธเธฅเธดเนเธเธกเธฒเธ”เธฒเธกเธซเธญเธกเธเธทเนเธเนเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",ABF-007 
 https://ezycdn.com/playlist-es734l83-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/208/pb_e_abf-208.jpg",ABF-208 เธเธธเธ”เนเธซเธงเธเธชเนเธเธเนเธญเธ เธชเธฐเธ—เนเธญเธเธเธงเธฒเธกเน€เธเนเธเน€เธเธญ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/208/pb_e_abf-208.jpg",ABF-208 
 https://ezycdn.com/playlist-7s7479qu-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",ABW-158 เธ–เธเธฑเธ”เธเธฑเธ”เน€เธ”เธทเธญเธข เธเธตเน€เธเธฅเธทเธญเธขเน€เธ”เธฅเธดเน€เธงเธญเธฃเธตเน
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",ABW-158 
 https://ezycdn.com/playlist-lp4i1ku2-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",ABF-017 เธ•เธฑเธงเน€เธเธตเธขเธเน€เธฃเธตเธขเธเนเธเธเธเนเธณเนเธ•เธเธ—เธฑเนเธเธญเธญเธเธเธดเธจ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",ABF-017 
 https://ezycdn.com/playlist-98bgvmnr-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",ABF-137 เน€เธฃเธกเธธเน€เธเธดเธ”เธเธฒเธข เนเธ•เธเธชเธฅเธฒเธขเธซเนเธฒเธเธ—เธเธฒเธ—
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",ABF-137 
 https://ezycdn.com/playlist-ie4oqpqc-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",ABF-125 เธเธตเนเธเนเธญเธเธ”เธญเธเธเธฑเธ เธเธญเธเธขเธฑเธเธเธ—เธเธฒเธขเธเนเธฒเธง
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",ABF-125 
 https://ezycdn.com/playlist-7vlkvm9m-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",ABF-087 เน€เธเธ•เธชเธฒเธงเน€เธชเธเนเธซเธฒเธเธฃเธฃเธกเธ”เธฒเนเธกเนเน€เธฃเนเธฒเนเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",ABF-087
 https://ezycdn.com/playlist-5n6n7v6a-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",ABF-073 เน€เธญเธงเธซเธเธนเนเธกเนเธเธฒเธเธชเธนเนเธซเธฅเธฒเธเธเธ—เธฃเธฑเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",ABF-073 
 https://ezycdn.com/playlist-v1q84h5s-FHD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",ABF-063 เน€เธ”เนเธเธกเธฒเน€เธชเธขเน€เธญเธฒเธฅเธฐเน€เธซเธงเธขเธเธเธฃเธฑเธเน€เธกเธตเธข
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",ABF-063
 https://ezycdn.com/playlist-uqtp6lu8-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",ABF-029 เนเธฃเธกเธฃเธฑเธเธเธฑเธเธ•เธนเธเธดเธงเธเธนเนเธชเธตเนเธกเธดเธ•เธด
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",ABF-029 
 https://ezycdn.com/playlist-ld89ukui-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",ABW-339 เธเธฃเธนเธชเธฒเธงเน€เธเนเธฒเธเธฃเธฃเธกเธจเธตเธฅเธเธฃเธฃเธกเธกเธดเธเธณเธเธฒ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",ABW-339 เธเธฃเธนเธชเธฒเธงเน€เธเนเธฒเธเธฃเธฃเธกเธจเธตเธฅเธเธฃเธฃเธกเธกเธดเธเธณเธเธฒ
 https://ezycdn.com/playlist-ojl227tp-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",ABW-265 เธเธญเธเธซเนเธญเธเน€เธ”เธตเธขเธงเธเธฑเธเธซเธฑเธงเธซเธเนเธฒเนเธ”เธเธงเธฒเธเธขเธฒ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",ABW-265 เธเธญเธเธซเนเธญเธเน€เธ”เธตเธขเธงเธเธฑเธเธซเธฑเธงเธซเธเนเธฒเนเธ”เธเธงเธฒเธเธขเธฒ
 https://ezycdn.com/playlist-ie6t13vm-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",ABW-076 เธฃเธฑเธเนเธ”เนเนเธซเธกเนเธญเนเน€เธเธทเนเธญเธเธเธตเน
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",ABW-076 เธฃเธฑเธเนเธ”เนเนเธซเธกเนเธญเนเน€เธเธทเนเธญเธเธเธตเน
 https://ezycdn.com/playlist-o9m0101b-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",ABW-087 เธ—เธฃเธขเธจเธฃเธฑเธเน€เธเธฃเธฒเธฐเน€เธเธญเธกเธฑเธเธเธญเธเนเธซเธเน
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",ABW-087 เธ—เธฃเธขเธจเธฃเธฑเธเน€เธเธฃเธฒเธฐเน€เธเธญเธกเธฑเธเธเธญเธเนเธซเธเน
 https://ezycdn.com/playlist-cv3lu1s0-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",ABW-314 เธฅเธธเนเธเธซเธเนเธฒเน€เธเธตเธขเธงเนเธเธเน€เธชเธตเธขเธงเธซเธฅเธฒเธขเธเธตเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",ABW-314 เธฅเธธเนเธเธซเธเนเธฒเน€เธเธตเธขเธงเนเธเธเน€เธชเธตเธขเธงเธซเธฅเธฒเธขเธเธตเธ
 https://ezycdn.com/playlist-2no7igb8-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",ABW-296 เน€เธชเธตเธขเธเธชเธฐเน€เธ”เนเธฒเธฃเธฑเธเน€เธเนเธฒเธ—เธตเนเธเนเธฒเธเน€เธเธดเธ”
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",ABW-296 เน€เธชเธตเธขเธเธชเธฐเน€เธ”เนเธฒเธฃเธฑเธเน€เธเนเธฒเธ—เธตเนเธเนเธฒเธเน€เธเธดเธ”
 https://ezycdn.com/playlist-e0pkopm1-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",ABW-065 เนเธเนเนเธซเนเน€เธซเธฅเธฒเธซเธธเธเน€เธเธฒเธญเธญเธเน€เธเนเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",ABW-065 เนเธเนเนเธซเนเน€เธซเธฅเธฒเธซเธธเธเน€เธเธฒเธญเธญเธเน€เธเนเธ
 https://ezycdn.com/playlist-8gs3abti-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",ABP-984 เธฃเธตเธ”เธเนเธณเนเธ—เธเธชเนเธงเธขเธซเธเนเธงเธขเธเธธเธกเธเธณเธซเธเธฑเธ”
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",ABP-984 เธฃเธตเธ”เธเนเธณเนเธ—เธเธชเนเธงเธขเธซเธเนเธงเธขเธเธธเธกเธเธณเธซเธเธฑเธ”
 https://ezycdn.com/playlist-riaca51f-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/bgn-054/cover-n.jpg",BGN-054 เน€เธเธดเธ”เน€เธฅเธเธชเนเนเธชเนเธเธงเนเธฒเธซเธฑเธงเนเธเธขเธฑเธขเธญเธดเธเนเธเน€เธเธเธ—เน
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/bgn-054/cover-n.jpg",BGN-054 เน€เธเธดเธ”เน€เธฅเธเธชเนเนเธชเนเธเธงเนเธฒเธซเธฑเธงเนเธเธขเธฑเธขเธญเธดเธเนเธเน€เธเธเธ—เน
 https://ezycdn.com/playlist-at5ju8el-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/siro-3759/cover-n.jpg",SIRO-3759 เธ•เธฃเธเธเธเธเธฃเธฐเธ”เธเธซเธกเธ”เธซเธฅเธญเธ”
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/siro-3759/cover-n.jpg",SIRO-3759 เธ•เธฃเธเธเธเธเธฃเธฐเธ”เธเธซเธกเธ”เธซเธฅเธญเธ”
 https://ezycdn.com/playlist-ue9fpnrm-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",ABP-960 เธ—เธฃเธดเธเธซเธฑเธงเธเธงเธ” เธเธฑเธ”เธเธฃเธงเธ”เธญเธญเธเน€เธเนเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",ABP-960 เธ—เธฃเธดเธเธซเธฑเธงเธเธงเธ” เธเธฑเธ”เธเธฃเธงเธ”เธญเธญเธเน€เธเนเธ
 https://ezycdn.com/playlist-b5ihp5ps-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/118abp859/118abp859pl.jpg",ABP-859 เธฃเธฒเธ”เธซเธเนเธฒเธซเนเธฒเธเธ—เธเธฒเธ—
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/118abp859/118abp859pl.jpg",ABP-859 เธฃเธฒเธ”เธซเธเนเธฒเธซเนเธฒเธเธ—เธเธฒเธ—
 https://ezycdn.com/playlist-udcci5bo-SD.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",ABP-870 เน€เธเธดเธ”เธญเธญเธเธเธฑเนเธเธเธฃเธฐเธชเธธเธเธฅเธฑเนเธเธเนเธฒเน€เธซเธฅเธทเธญเธ
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",ABP-870 
 https://ezycdn.com/playlist-nat3fv8g-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/274/pb_e_abf-274.jpg",abf-274
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/274/pb_e_abf-274.jpg",abf-274
 https://surrit.com/92cbf7ab-6a0f-48e7-bbad-9ac14fe61c50/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00968/h_346rebd00968pl.jpg",rebd-968
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00968/h_346rebd00968pl.jpg",rebd-968
 https://surrit.com/2f73a8b2-4d9f-4aad-8acb-8709e5b7f75c/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/rebdb-953/cover-n.jpg",rebdb-953
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/rebdb-953/cover-n.jpg",rebdb-953
 https://surrit.com/e812c335-287b-44c0-aad2-f7d4b979ddcb/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/266/pb_e_abf-266.jpg",abf-266
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/266/pb_e_abf-266.jpg",abf-266
 https://surrit.com/5eee6aa8-0f2d-4abb-9af0-d9ffa768c156/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/255/pb_e_abf-255.jpg",abf-255
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/255/pb_e_abf-255.jpg",abf-255
 https://surrit.com/1e22b7fd-fbab-4876-876e-a50f22fb252a/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/246/pb_e_abf-246.jpg",abf-246
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/246/pb_e_abf-246.jpg",abf-246
 https://surrit.com/b34d28a2-f252-4b75-bc2f-843963d74e62/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/thu/051/pb_e_thu-051.jpg",thu-051
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/thu/051/pb_e_thu-051.jpg",thu-051
 https://surrit.com/1242affe-2dd0-4682-af97-e615a21b8210/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/237/pb_e_abf-237.jpg",abf-237
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/237/pb_e_abf-237.jpg",abf-237
 https://surrit.com/0295de7b-4e59-48bd-96ef-11780296c51a/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppx/030/pb_e_ppx-030.jpg",ppx-030
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppx/030/pb_e_ppx-030.jpg",ppx-030
 https://surrit.com/9f71bd4e-9a4a-432c-99f9-e620e94166fe/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/226/pb_e_abf-226.jpg",abf-226
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/226/pb_e_abf-226.jpg",abf-226
 https://surrit.com/14c97923-8054-41dd-bd3f-524c1cc703f5/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/217/pb_e_abf-217.jpg",abf-217
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/217/pb_e_abf-217.jpg",abf-217
 https://surrit.com/936f8059-c631-439d-9e6f-a81e734810ab/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/thu/043/pb_e_thu-043.jpg",thu-043
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/thu/043/pb_e_thu-043.jpg",thu-043
 https://surrit.com/9abf020c-ac66-4e5c-9492-978d14ca422d/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/208/pb_e_abf-208.jpg",abf-208
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/208/pb_e_abf-208.jpg",abf-208
 https://surrit.com/749dd2f9-1426-4517-8961-7920929336d7/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/199/pb_e_abf-199.jpg",abf-199
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/199/pb_e_abf-199.jpg",abf-199
 https://surrit.com/44d56516-55e4-4408-95ec-d04a37499634/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/188/pb_e_abf-188.jpg",abf-188
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/188/pb_e_abf-188.jpg",abf-188
 https://surrit.com/4974534a-f2a3-4796-b7d7-d22086b92316/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppx/023/pb_e_ppx-023.jpg",ppx-023
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppx/023/pb_e_ppx-023.jpg",ppx-023
 https://surrit.com/ba834a47-761f-41ef-ba15-61d1841f1af4/720p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/179/pb_e_abf-179.jpg",abf-179
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/179/pb_e_abf-179.jpg",abf-179
 https://surrit.com/3e163845-5abd-44a3-8d4a-2e3ec9791f5b/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/179/pb_e_abf-179.jpg",abf-179-english
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/179/pb_e_abf-179.jpg",abf-179-english
 https://surrit.com/dc4a7bb7-374e-4f09-9ba7-fd4cef1f774e/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/168/pb_e_abf-168.jpg",abf-168
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/168/pb_e_abf-168.jpg",abf-168
 https://surrit.com/158425eb-bdd2-46c5-880b-e8850a2bb309/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/168/pb_e_abf-168.jpg",abf-168-english
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/168/pb_e_abf-168.jpg",abf-168-english
 https://surrit.com/1051b63a-7cef-4d96-81e6-4cf9e29751ec/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppx/018/pb_e_ppx-018.jpg",ppx-018
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppx/018/pb_e_ppx-018.jpg",ppx-018
 https://surrit.com/07398136-7132-46cb-934e-387c8f148bd5/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/159/pb_e_abf-159.jpg",abf-159
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/159/pb_e_abf-159.jpg",abf-159
 https://surrit.com/b399ad38-a4e4-45ec-ad59-d58a11a5b5b3/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",abf-149
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",abf-149
 https://surrit.com/d56da7c0-d53f-40d4-996c-99f7347f8f5e/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",abf-137
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",abf-137
 https://surrit.com/f5df8ec6-9bce-46a4-82b8-c394c5903b62/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00860/h_346rebd00860pl.jpg",rebd-860
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00860/h_346rebd00860pl.jpg",rebd-860
 https://surrit.com/5bf09237-7d95-4a26-a42e-bdaca51ae661/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/114/pb_e_abf-114.jpg",abf-114
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/114/pb_e_abf-114.jpg",abf-114
 https://surrit.com/44aa8833-9aec-459c-afd4-8bf10a8c878a/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",abf-125
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",abf-125
 https://surrit.com/630e6ea5-ecdc-407f-bfaf-dce7cede900a/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/105/pb_e_abf-105.jpg",abf-105
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/105/pb_e_abf-105.jpg",abf-105
 https://surrit.com/2f52fa4f-f0ec-488b-be78-c2f0ba7c0a7e/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/105/pb_e_abf-105.jpg",abf-105-english-subtitle
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/105/pb_e_abf-105.jpg",abf-105-english-subtitle
 https://surrit.com/e06e3969-283d-4eb8-9d6a-7deae8d11fa4/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppx/015/pb_e_ppx-015.jpg",ppx-015
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppx/015/pb_e_ppx-015.jpg",ppx-015
 https://surrit.com/0d12caa9-ca86-4290-9d97-bcf3b848f8fd/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/094/pb_e_abf-094.jpg",abf-094
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/094/pb_e_abf-094.jpg",abf-094
 https://surrit.com/ebe05767-0e7f-4591-a3f4-2f9b75485ada/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppx/008/pb_e_ppx-008.jpg",ppx-008
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppx/008/pb_e_ppx-008.jpg",ppx-008
 https://surrit.com/45b10be6-ad0c-4665-818c-3d57a0062304/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",abf-087
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",abf-087
 https://surrit.com/ccee25a6-372c-4d5d-9d38-036170a2f6f4/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",abf-073
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",abf-073
 https://surrit.com/e43bcb52-7054-4f60-9422-9c7e0ebfdc2b/1920x1080/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",abf-063
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",abf-063
 https://surrit.com/9b39e1b0-39af-4d5f-bbac-fb6de6cfa40b/1920x1080/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/055/pb_e_abf-055.jpg",abf-055
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/055/pb_e_abf-055.jpg",abf-055
 https://surrit.com/d171a935-fe52-41e3-b970-b996697262a2/1920x1080/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/043/pb_e_abf-043.jpg",abf-043
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/043/pb_e_abf-043.jpg",abf-043
 https://surrit.com/5a0ca2bb-dbb2-4ff8-a59c-cf3d03469041/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/034/pb_e_abf-034.jpg",abf-034
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/034/pb_e_abf-034.jpg",abf-034
 https://surrit.com/fdccdfe2-151e-443f-8a79-63be8f3c6ddb/1920x1080/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",abf-029
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",abf-029
 https://surrit.com/a925a0aa-ba6d-40ad-a085-8ecc6b975259/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",abf-017
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",abf-017
 https://surrit.com/a5d1a046-7b28-4790-9aa9-938bc0502e98/1280x720/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",abf-007
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",abf-007
 https://surrit.com/d720a6a3-7859-4120-8784-8626b0581b7e/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",abw-366
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",abw-366
 https://surrit.com/1fb9e985-1c93-4021-a786-5e5ce6b72def/1280x720/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/abw-358/cover-n.jpg",abw-358
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/abw-358/cover-n.jpg",abw-358
 https://surrit.com/4bb831ec-a9fa-49a8-b0f2-cee1203118ba/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/348/pb_e_abw-348.jpg",abw-348
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/348/pb_e_abw-348.jpg",abw-348
 https://surrit.com/77a30815-4538-4be5-a26b-7c70a430bbb2/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppt/136/pb_e_ppt-136.jpg",ppt-136
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppt/136/pb_e_ppt-136.jpg",ppt-136
 https://surrit.com/3b01aac3-0dfb-4b3b-8d36-625935589d10/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",abw-339
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",abw-339
 https://surrit.com/c65e935f-e758-4750-9a18-7ad14a8caf61/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00727/h_346rebd00727pl.jpg",rebd-727
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00727/h_346rebd00727pl.jpg",rebd-727
 https://surrit.com/75bfbdef-46ca-4efb-a87f-80ae30b195ea/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00727/h_346rebd00727pl.jpg",rebdb-713
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00727/h_346rebd00727pl.jpg",rebdb-713
 https://surrit.com/33fcada9-9590-409e-9d9f-d457d2ecd9e7/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/324/pb_e_abw-324.jpg",abw-324
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/324/pb_e_abw-324.jpg",abw-324
 https://surrit.com/9597628e-553e-4b55-902a-d16394131ec0/1280x720/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",abw-314
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",abw-314
 https://surrit.com/b0d7e9ce-f348-47ef-93c8-c2ff1234fec1/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/305/pb_e_abw-305.jpg",abw-305
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/305/pb_e_abw-305.jpg",abw-305
 https://surrit.com/787ef56e-1225-4d26-a12c-4db51cda29c4/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",abw-296
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",abw-296
 https://surrit.com/a6a03261-f628-4768-a43d-1b849778964c/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00695/h_346rebd00695pl.jpg",rebd-695
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00695/h_346rebd00695pl.jpg",rebd-695
 https://surrit.com/c0e541e3-c091-4fb6-8dc8-a5f0d3482801/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00695/h_346rebd00695pl.jpg",rebdb-681
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00695/h_346rebd00695pl.jpg",rebdb-681
 https://surrit.com/a23f50f9-7d16-49ee-b834-5d11ed54fa9f/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppt/130/pb_e_ppt-130.jpg",ppt-130
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppt/130/pb_e_ppt-130.jpg",ppt-130
 https://surrit.com/863c705a-1f45-4115-9ebe-1c881eebea7b/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/286/pb_e_abw-286.jpg",abw-286
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/286/pb_e_abw-286.jpg",abw-286
 https://surrit.com/67cf2746-7f30-41a9-9059-0d9e75146cf2/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",abw-276-english-subtitle
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",abw-276-english-subtitle
 https://surrit.com/2582c361-6130-4137-835a-d6dc2cc2128c/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",abw-265-english-subtitle
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",abw-265-english-subtitle
 https://surrit.com/fda83c53-cf97-4d81-8718-1c5d9931b494/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/254/pb_e_abw-254.jpg",abw-254
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/254/pb_e_abw-254.jpg",abw-254
 https://surrit.com/17becd08-92f7-4894-9ad0-c9be3a4af214/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/244/pb_e_abw-244.jpg",abw-244
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/244/pb_e_abw-244.jpg",abw-244
 https://surrit.com/0387e994-7c0b-42a0-987b-4b962aee513d/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/232/pb_e_abw-232.jpg",abw-232
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/232/pb_e_abw-232.jpg",abw-232
 https://surrit.com/d1aaa654-5f2b-45e3-a2aa-5cb3e388e990/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/ppt/123/pb_e_ppt-123.jpg",ppt-123
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/ppt/123/pb_e_ppt-123.jpg",ppt-123
 https://surrit.com/b134c112-f4e8-4196-81ba-1bb214a3b0e0/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/220/pb_e_abw-220.jpg",abw-220
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/220/pb_e_abw-220.jpg",abw-220
 https://surrit.com/045abdfa-3de8-4d78-9198-0f74fc6a1c36/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/208/pb_e_abw-208.jpg",abw-208
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/208/pb_e_abw-208.jpg",abw-208
 https://surrit.com/40c39a0e-397b-41bb-8a88-df987925dca0/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/198/pb_e_abw-198.jpg",abw-198
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/198/pb_e_abw-198.jpg",abw-198
 https://surrit.com/9fa60059-fcd7-4b62-88ea-327a4b84ffec/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/187/pb_e_abw-187.jpg",abw-187
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/187/pb_e_abw-187.jpg",abw-187
 https://surrit.com/b3909dbd-8441-4258-b763-74836692cb3d/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",abw-179
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",abw-179
 https://surrit.com/ac9de0ea-2a5d-4cc2-8a72-39e97f402563/720p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",abw-158                
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",abw-158                
 https://surrit.com/ec9a2c21-725e-492b-93e0-3b681e6ef41b/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/153/pb_e_abw-153.jpg",abw-153           
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/153/pb_e_abw-153.jpg",abw-153           
 https://surrit.com/884269fe-7c29-4630-9e1f-8dab3ccb362c/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00584/h_346rebd00584pl.jpg",rebd-584
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00584/h_346rebd00584pl.jpg",rebd-584
 https://surrit.com/128c99be-944a-4c46-bb06-a01292634adf/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/135/pb_e_abw-135.jpg",abw-135       
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/135/pb_e_abw-135.jpg",abw-135       
 https://surrit.com/ec89b0f9-7e65-47f0-8c6b-7e8c0107ac60/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/121/pb_e_abw-121.jpg",abw-121          
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/121/pb_e_abw-121.jpg",abw-121          
 https://surrit.com/2d6c536f-06c7-42cc-8043-27c7a7f47c32/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/108/pb_e_abw-108.jpg",abw-108-english-sub        
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/108/pb_e_abw-108.jpg",abw-108-english-sub        
 https://surrit.com/bbeaec10-8a32-4ad1-9ad5-bad8034bccd9/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/096/pb_e_abw-096.jpg",abw-096         
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/096/pb_e_abw-096.jpg",abw-096         
 https://surrit.com/283040fb-98e3-4e0a-8773-95ea965d0aa4/1280x720/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",abw-087                 
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",abw-087                 
 https://surrit.com/92f3dcd4-a2db-40d9-98e1-20d956e338ff/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",abw-076
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",abw-076
 https://surrit.com/b6f80621-8ed0-41d9-b587-ea99e602291b/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",abw-065
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",abw-065
 https://surrit.com/861011b4-0e24-47e2-9215-1c044cb5e67c/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00054/118abw00054pl.jpg",abw-054
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00054/118abw00054pl.jpg",abw-054
 https://surrit.com/7f3ab0a0-231e-4889-9361-2b8a219b9570/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00043/118abw00043pl.jpg",abw-043
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00043/118abw00043pl.jpg",abw-043
 https://surrit.com/19d1750a-52c8-4494-9f8f-4906315e21dc/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00032/118abw00032pl.jpg",abw-032
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00032/118abw00032pl.jpg",abw-032
 https://surrit.com/0ce806b8-1f12-4ec3-9d2f-576202af8684/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118ppt00102/118ppt00102pl.jpg",ppt-102
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118ppt00102/118ppt00102pl.jpg",ppt-102
 https://surrit.com/6a22baae-44e3-41ae-8156-4e05f27fca34/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00023/118abw00023pl.jpg",abw-023
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00023/118abw00023pl.jpg",abw-023
 https://surrit.com/b646225e-e8e2-4a16-9fb2-a60caa7fd240/1280x720/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00507/h_346rebd00507pl.jpg",rebd-507
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00507/h_346rebd00507pl.jpg",rebd-507
 https://surrit.com/744faf81-ada5-4173-9dd4-7fb7fff40a4b/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",abw-015
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",abw-015
 https://surrit.com/0536d6ed-04dc-4069-b483-fd477be1e35e/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00006/118abw00006pl.jpg",abw-006         
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00006/118abw00006pl.jpg",abw-006         
 https://surrit.com/ec15a194-1325-462f-947c-e2954e7bf858/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00995/118abp00995pl.jpg",abp-995
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00995/118abp00995pl.jpg",abp-995
 https://surrit.com/062ae090-5576-470f-8418-0005bc5674a7/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",abp-984
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",abp-984
 https://surrit.com/953ae17e-eeb6-44f7-9c4f-a82d855718fc/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00975/118abp00975pl.jpg",abp-975-english-subtitle
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00975/118abp00975pl.jpg",abp-975-english-subtitle
 https://surrit.com/b0930710-3225-460b-9972-8ccd35a3fa1c/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00968/118abp00968pl.jpg",abp-968
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00968/118abp00968pl.jpg",abp-968
 https://surrit.com/bb2a3bca-2bf9-4cd4-9a4c-27d767c19b23/1920x1080/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",abp-960
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",abp-960
 https://surrit.com/71d86884-8859-4d1e-8a90-beb886d39a9f/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00457/h_346rebd00457pl.jpg",rebd-457
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00457/h_346rebd00457pl.jpg",rebd-457
 https://surrit.com/212e4026-3461-4eb8-8052-d514e05e7db9/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118ppt00092/118ppt00092pl.jpg",ppt-092
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118ppt00092/118ppt00092pl.jpg",ppt-092
 https://surrit.com/f6aeb68f-d7cd-4791-8641-5bb603068d8d/842x480/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00950/118abp00950pl.jpg",abp-950-english-subtitle
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00950/118abp00950pl.jpg",abp-950-english-subtitle
 https://surrit.com/aeddc95e-299b-40d2-8233-fb450d636163/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00950/118abp00950pl.jpg",abp-950
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00950/118abp00950pl.jpg",abp-950
 https://surrit.com/38ba50ea-4148-4b49-9ae4-e1dc8795e537/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00939/118abp00939pl.jpg",abp-939
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00939/118abp00939pl.jpg",abp-939
 https://surrit.com/8c01f942-23d9-42f3-817e-c58d61bab4a5/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00933/118abp00933pl.jpg",abp-933
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00933/118abp00933pl.jpg",abp-933
 https://surrit.com/d035711f-9b15-4328-be72-a2b5052d024e/1280x720/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00919/118abp00919pl.jpg",abp-919
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00919/118abp00919pl.jpg",abp-919
 https://surrit.com/34c7ab1c-bdb7-4b97-b948-417022934c10/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00912/118abp00912pl.jpg",abp-912
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00912/118abp00912pl.jpg",abp-912
 https://surrit.com/928850e2-f002-489a-b5ca-787aec69b410/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00415/h_346rebd00415pl.jpg",rebd-415
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00415/h_346rebd00415pl.jpg",rebd-415
 https://surrit.com/0c3decb7-bcca-436e-b3ae-aa9495960afa/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00901/118abp00901pl.jpg",abp-901
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00901/118abp00901pl.jpg",abp-901
 https://surrit.com/501d1776-0dff-4432-b96e-dbbac790ff88/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00889/118abp00889pl.jpg",ABP-889
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00889/118abp00889pl.jpg",ABP-889
 https://surrit.com/acc2c15b-7002-468f-905c-2910fcef8dd2/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118chn00174/118chn00174pl.jpg",chn-174
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118chn00174/118chn00174pl.jpg",chn-174
 https://surrit.com/ae465728-a9ca-4aa0-a8a1-3ca2309d2efc/1920x1080/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",abp-870
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",abp-870
 https://surrit.com/7d985796-1515-4761-abbe-782c4f18b7e8/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00859/118abp00859pl.jpg",abp-859
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00859/118abp00859pl.jpg",abp-859
 https://surrit.com/a7a52b50-896a-4b9b-beee-6f31e1be3035/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2019/04/118bgn054pl.jpg",bgn-054
+#EXTINF:-1 group-title="Remu" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2019/04/118bgn054pl.jpg",bgn-054
 https://surrit.com/5dae3f35-01c9-4064-9630-7322aac4d117/1920x1080/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/sei-009/cover-n.jpg",sei-009
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/sei-009/cover-n.jpg",sei-009
 https://surrit.com/cb97b9e2-eff6-4df2-a7a4-cf8f5a0288d0/720p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/siro-3759/cover-n.jpg",siro-3759
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/siro-3759/cover-n.jpg",siro-3759
 https://surrit.com/e732e109-c3d4-417f-8080-c3d1e01e0cb7/1080p/video.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/mgssiro-001/cover-n.jpg",mgssiro-001
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/mgssiro-001/cover-n.jpg",mgssiro-001
 https://surrit.com/03cdfa56-73bf-4cc3-9672-db619667cf4f/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",abf-149
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",abf-149
 https://eulao-monter.mushroomtrack.com/hls/jBPhc_pP-o-kOurO-HWdww/1771049482/44000/44808/44808.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",abf-137
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",abf-137
 https://eulao-monter.mushroomtrack.com/hls/uWZeNMWxdqKc9MASqsNZWw/1771049376/44000/44354/44354.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/114/pb_e_abf-114.jpg",abf-114
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/114/pb_e_abf-114.jpg",abf-114
 https://eulao-monter.mushroomtrack.com/hls/JnibxhfAB6i_QcKy_pnPng/1771048933/43000/43462/43462.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",abf-125
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",abf-125
 https://galav-oxwy.mushroomtrack.com/hls/WFMT3BzmLOqYHcU4nH5KkA/1771049142/43000/43113/43113.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/105/pb_e_abf-105.jpg",abf-105
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/105/pb_e_abf-105.jpg",abf-105
 https://galav-oxwy.mushroomtrack.com/hls/MNWuRjCk3N7BAO5tOH9XVg/1771048918/41000/41879/41879.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/094/pb_e_abf-094.jpg",abf-094
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/094/pb_e_abf-094.jpg",abf-094
 https://galav-oxwy.mushroomtrack.com/hls/OOpkURHp8d6OKoL4EMAL5Q/1771048634/41000/41348/41348.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",abf-087
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",abf-087
 https://eulao-monter.mushroomtrack.com/hls/FiwxC--ZiQEVA3Kvo2A21Q/1771048630/40000/40650/40650.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",abf-073
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",abf-073
 https://galav-oxwy.mushroomtrack.com/hls/cvSWyzkmqMPU-dTEPuR8eQ/1771049050/39000/39645/39645.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",abf-063
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",abf-063
 https://gobob-yasl.mushroomtrack.com/hls/KB3Tpc-ZYTOGkqRvsoNh4w/1771048874/38000/38800/38800.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/055/pb_e_abf-055.jpg",abf-055
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/055/pb_e_abf-055.jpg",abf-055
 https://gmas-clena.mushroomtrack.com/hls/hCUiq5h6hFfzzqNdd5crmQ/1771048907/38000/38276/38276.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/043/pb_e_abf-043.jpg",abf-043
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/043/pb_e_abf-043.jpg",abf-043
 https://gobob-yasl.mushroomtrack.com/hls/HY4onx0bEsWhyoCXVu9Yfw/1771049139/37000/37297/37297.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/034/pb_e_abf-034.jpg",abf-034
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/034/pb_e_abf-034.jpg",abf-034
 https://gmas-clena.mushroomtrack.com/hls/62qjxUZ3CK0CI7hFLxRubA/1771048696/36000/36774/36774.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",abf-029
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",abf-029
 https://gobob-yasl.mushroomtrack.com/hls/Kq-Jq3BCWk89REa0RHuB6Q/1771048753/36000/36173/36173.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",abf-017
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",abf-017
 https://gmas-clena.mushroomtrack.com/hls/4hwA17ySi1G6M-719wMy8w/1771048562/35000/35652/35652.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",abf-007
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",abf-007
 https://gobob-yasl.mushroomtrack.com/hls/UAqITSkWt6tb7UYo_OqvvA/1771048699/35000/35713/35713.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",abw-366
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",abw-366
 https://gobob-yasl.mushroomtrack.com/hls/BNyQlNr_2pdfri1DJyx6Tg/1771048864/34000/34173/34173.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/305/pb_e_abw-305.jpg",abw-305
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/305/pb_e_abw-305.jpg",abw-305
 https://gobob-yasl.mushroomtrack.com/hls/3nBOQ7a-HBzKdi9VJ6z8Eg/1771048569/33000/33266/33266.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/abw-358/cover-n.jpg",abw-358
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/abw-358/cover-n.jpg",abw-358
 https://gmas-clena.mushroomtrack.com/hls/VUW0V3TbctZKIAQs69bqWQ/1771048941/33000/33263/33263.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/348/pb_e_abw-348.jpg",abw-348
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/348/pb_e_abw-348.jpg",abw-348
 https://fuaf-uying.mushroomtrack.com/hls/SsvgVTQiIaEFJQs_LW_5oA/1771049045/32000/32816/32816.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",abw-339
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",abw-339
 https://fuaf-uying.mushroomtrack.com/hls/S0PWlHumYt9Pu9oRTPjw6g/1771048374/32000/32118/32118.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/324/pb_e_abw-324.jpg",abw-324
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/324/pb_e_abw-324.jpg",abw-324
 https://masno-terer.mushroomtrack.com/hls/ZJKAuvTldhmMckm1p33Deg/1771048566/30000/30266/30266.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",abw-314
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",abw-314
 https://masno-terer.mushroomtrack.com/hls/Cw6J9xkgoMn8WXjfS2X9mw/1771048980/30000/30168/30168.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",abw-296
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",abw-296
 https://fuaf-uying.mushroomtrack.com/hls/TWmwALum3F17Xeq7MMSMKg/1771048960/28000/28621/28621.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/286/pb_e_abw-286.jpg",abw-286
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/286/pb_e_abw-286.jpg",abw-286
 https://fuaf-uying.mushroomtrack.com/hls/rIl0upFkUfzGTNpveKePSQ/1771048936/27000/27980/27980.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",abw-276
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",abw-276
 https://halas-monsl.mushroomtrack.com/hls/niEnOtEqXJZ1h1dqk06sUQ/1771048625/26000/26613/26613.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",abw-265
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",abw-265
 https://hansn-govi.mushroomtrack.com/hls/KYj2Ugjff68g8-lLQdW0Kw/1771048230/26000/26374/26374.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/254/pb_e_abw-254.jpg",abw-254
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/254/pb_e_abw-254.jpg",abw-254
 https://masno-terer.mushroomtrack.com/hls/-mwRDESpbLGpp79TNZV8zg/1771048237/28000/28986/28986.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/198/pb_e_abw-198.jpg",abw-198
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/198/pb_e_abw-198.jpg",abw-198
 https://halas-monsl.mushroomtrack.com/hls/qezXcjXxLzvp8dwqfzm-bg/1771048418/24000/24632/24632.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/244/pb_e_abw-244.jpg",abw-244
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/244/pb_e_abw-244.jpg",abw-244
 https://fuaf-uying.mushroomtrack.com/hls/EhC0HvJRnfU-aBrYdJGqqg/1771048620/32000/32676/32676.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/232/pb_e_abw-232.jpg",abw-232
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/232/pb_e_abw-232.jpg",abw-232
 https://hansn-govi.mushroomtrack.com/hls/ZFuQkoxENjz1QNr632tN3A/1771048575/24000/24370/24370.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/220/pb_e_abw-220.jpg",abw-220
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/220/pb_e_abw-220.jpg",abw-220
 https://halas-monsl.mushroomtrack.com/hls/8j3CqOPAuInjjJ7aomchsw/1771048736/23000/23402/23402.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/208/pb_e_abw-208.jpg",abw-208
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/208/pb_e_abw-208.jpg",abw-208
 https://hansn-govi.mushroomtrack.com/hls/nIM3Go_0jSJ_YC5RWFnzmA/1771048213/22000/22496/22496.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",abw-179
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",abw-179
 https://halas-monsl.mushroomtrack.com/hls/iuU_rsHhX9rzMIPEdJudsQ/1771048682/20000/20750/20750.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",abw-158           https://halas-monsl.mushroomtrack.com/hls/DHfAJnf6p8oE7CAoM48L7A/1771048320/19000/19521/19521.m3u8
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",abw-158           https://halas-monsl.mushroomtrack.com/hls/DHfAJnf6p8oE7CAoM48L7A/1771048320/19000/19521/19521.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00006/118abw00006pl.jpg",abw-006         
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00006/118abw00006pl.jpg",abw-006         
 https://hansn-govi.mushroomtrack.com/hls/P1jjnayyUypuQNWHWL9aBA/1771048705/19000/19139/19139.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/153/pb_e_abw-153.jpg",abw-153           
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/153/pb_e_abw-153.jpg",abw-153           
 https://halas-monsl.mushroomtrack.com/hls/50hH-4nfmxfEVzEmFQ3oGw/1771047980/19000/19052/19052.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/135/pb_e_abw-135.jpg",abw-135       
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/135/pb_e_abw-135.jpg",abw-135       
 https://halas-monsl.mushroomtrack.com/hls/CrJPaMnrqcUB7v8MtY-kkg/1771047980/18000/18258/18258.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/108/pb_e_abw-108.jpg",abw-108        
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/108/pb_e_abw-108.jpg",abw-108        
 https://hansn-govi.mushroomtrack.com/hls/wEP8b4LShXcPIgxLGyZL-A/1771047770/19000/19906/19906.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/121/pb_e_abw-121.jpg",abw-121          
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/121/pb_e_abw-121.jpg",abw-121          
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=UWS1SiBMEVWTge79STV8rDE7vOda25ATIeWzJHTk4XA&expires=1771044590&token_path=%2Fvod%2F/vod/17000/17614/17614.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/096/pb_e_abw-096.jpg",abw-096         
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/096/pb_e_abw-096.jpg",abw-096         
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=C6LyFQb9Hhmp6WfiiELEH8AeXyqPKkP_cxU9RQOIt8g&expires=1771044642&token_path=%2Fvod%2F/vod/16000/16291/16291.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",ABW-087           https://ap-drop-monst.mushroomtrack.com/bcdn_token=Yy7zovXdOcfc-xwxEco32xMdOZiTYcls42fiea0aKWM&expires=1771044856&token_path=%2Fvod%2F/vod/16000/16752/16752.m3u8
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",ABW-087           https://ap-drop-monst.mushroomtrack.com/bcdn_token=Yy7zovXdOcfc-xwxEco32xMdOZiTYcls42fiea0aKWM&expires=1771044856&token_path=%2Fvod%2F/vod/16000/16752/16752.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",ABW-076
+#EXTINF:-1 group-title="Remu" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",ABW-076
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=8Ugb69thE0aWcUK7Latb6_WdiynW-hQ3yw_OM72QkXw&expires=1771044920&token_path=%2Fvod%2F/vod/16000/16835/16835.m3u8
 
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00939/118abp00939pl.jpg",abp-939
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00939/118abp00939pl.jpg",abp-939
 https://ao-block-ater.mushroomtrack.com/bcdn_token=yaX9Yyz4VNvHyR3Ij34mv2LqLpMkDhRRiBE9hewzoY4&expires=1771044804&token_path=%2Fvod%2F/vod/7000/7668/7668.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00859/118abp00859pl.jpg",abp-859
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00859/118abp00859pl.jpg",abp-859
 https://qabo-ahha.mushroomtrack.com/hls/njt8KRJD4aLxU_MBErKk1A/1771047948/1000/1186/1186.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00919/118abp00919pl.jpg",abp-919
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00919/118abp00919pl.jpg",abp-919
 https://catc-less.mushroomtrack.com/hls/7Wx_IStKQHjIK3lAd59MgA/1771048196/3000/3774/3774.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://fourhoi.com/bgn-054/cover-n.jpg",bgn-054
+#EXTINF:-1 group-title="Remu" tvg-logo="https://fourhoi.com/bgn-054/cover-n.jpg",bgn-054
 https://ao-block-ater.mushroomtrack.com/bcdn_token=rGIftPkCy_wBPVGUDS3d9fQtaey2bHNhnJ-zX80jlBA&expires=1771044610&token_path=%2Fvod%2F/vod/5000/5497/5497.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00950/118abp00950pl.jpg",abp-950
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00950/118abp00950pl.jpg",abp-950
 https://ao-block-ater.mushroomtrack.com/bcdn_token=MB4Ioq4NKQozMHDEb-56o0PG3mnvUaS8dEkDlncu3XY&expires=1771044117&token_path=%2Fvod%2F/vod/5000/5910/5910.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",abp-960
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",abp-960
 https://ao-block-ater.mushroomtrack.com/bcdn_token=lptlASMH4CBDqGYMp3k7um-yGi9z7IFwLNff-vdHQPI&expires=1771044576&token_path=%2Fvod%2F/vod/6000/6534/6534.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",abp-870
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",abp-870
 https://ao-block-ater.mushroomtrack.com/bcdn_token=ZL8pk6q9WheUkpwx1H_hJQlFVLJdlEN4oVgL7CKrEUA&expires=1771044766&token_path=%2Fvod%2F/vod/6000/6655/6655.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00901/118abp00901pl.jpg",abp-901
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00901/118abp00901pl.jpg",abp-901
 https://ao-block-ater.mushroomtrack.com/bcdn_token=8IYpu_X_92H0r9jIifx9cVf5j5FwEpFV-u25eAsLbOo&expires=1771043892&token_path=%2Fvod%2F/vod/6000/6800/6800.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00968/118abp00968pl.jpg",abp-968
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00968/118abp00968pl.jpg",abp-968
 https://ao-block-ater.mushroomtrack.com/bcdn_token=9X9P1OJBkyYQvSN6wKstdvjBC9rxY_QbsmlWjSI-dpk&expires=1771044705&token_path=%2Fvod%2F/vod/7000/7133/7133.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00975/118abp00975pl.jpg",abp-975
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00975/118abp00975pl.jpg",abp-975
 https://ao-block-ater.mushroomtrack.com/bcdn_token=Ggo0s_cBq3qb0zpiCstjWef2kbMFgiqCLcBK7Xv3LZk&expires=1771044429&token_path=%2Fvod%2F/vod/7000/7671/7671.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00912/118abp00912pl.jpg",abp-912
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00912/118abp00912pl.jpg",abp-912
 https://ao-block-ater.mushroomtrack.com/bcdn_token=f81NusfPoCFHzXn-IfLxZXcAlcwKnlCDUoiaXQOL4v4&expires=1771044254&token_path=%2Fvod%2F/vod/7000/7815/7815.m3u8
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118chn00174/118chn00174pl.jpg",chn-174
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118chn00174/118chn00174pl.jpg",chn-174
 https://ao-block-ater.mushroomtrack.com/bcdn_token=dLBgAepERyQGgna8coIp-WHrMIKjS2Gk5Q_bn8MgT5o&expires=1771044384&token_path=%2Fvod%2F/vod/7000/7888/7888.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",abp-984
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",abp-984
 https://ao-block-ater.mushroomtrack.com/bcdn_token=prjzDsyrQ3sr2TGGwBqryCN2ZXjfPEf7TIBk52rtyBI&expires=1771043950&token_path=%2Fvod%2F/vod/9000/9512/9512.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",abw-015
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",abw-015
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=hEJ-NJnjr3JjkRvhv07TMZJ-kwrYNbl_EKRtFHLbFyQ&expires=1771044112&token_path=%2Fvod%2F/vod/11000/11292/11292.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00023/118abw00023pl.jpg",abw-023
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00023/118abw00023pl.jpg",abw-023
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=ea2DFvCkzsLtuexGexP8m7L8cbcMZT9fs5buWML6DoI&expires=1771043717&token_path=%2Fvod%2F/vod/11000/11604/11604.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00032/118abw00032pl.jpg",abw-032
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00032/118abw00032pl.jpg",abw-032
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=BePx6HWbXj3IhSHrYdqaWFtgvNkZ-X2QFiABxf9fslc&expires=1771044040&token_path=%2Fvod%2F/vod/11000/11885/11885.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00043/118abw00043pl.jpg",abw-043
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00043/118abw00043pl.jpg",abw-043
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=jF0Ld6b4M-NsmsmdN4jbn8r_V-ghFv4dwmT-TU_Y6r4&expires=1771043757&token_path=%2Fvod%2F/vod/12000/12726/12726.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00054/118abw00054pl.jpg",abw-054
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00054/118abw00054pl.jpg",abw-054
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=CthVm9FgPdjhKCgPyc0HzhlSgZYWhTL2RwmkCDYEfcc&expires=1771043749&token_path=%2Fvod%2F/vod/16000/16834/16834.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",abw-065
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",abw-065
 https://halas-monsl.mushroomtrack.com/hls/ouHk-aKY3kWZrEtzSrtvsA/1771048085/19000/19853/19853.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00933/118abp00933pl.jpg",ABP-933
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00933/118abp00933pl.jpg",ABP-933
 https://dot-lobo.mushroomtrack.com/hls/snesUOdKQh3ehipQRVauUA/1771047331/4000/4626/4626.m3u8
 
-#EXTINF:-1 group-title="Remu Suzumori คนโปรด😍" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00889/118abp00889pl.jpg",ABP-889
+#EXTINF:-1 group-title="Remu" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00889/118abp00889pl.jpg",ABP-889
 https://ao-block-ater.mushroomtrack.com/bcdn_token=kUXwQaqzv5raeVeqMqai2sE6xf4Z7zht3lW3fsYUdcQ&expires=1771044436&token_path=%2Fvod%2F/vod/7000/7745/7745.m3u8
 
 
